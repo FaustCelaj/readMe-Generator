@@ -2,7 +2,7 @@
 # ReadMe generator
 
 ## Description
-this helps people write readme through the cli
+This application aims to generate a polished README file through the command line, enabling the developer to focus additional time on other project components.
 
 ## Table of Contents
 - [Description](#description)
@@ -15,23 +15,28 @@ this helps people write readme through the cli
 - [Contact](#contact)
 
 ## Installation
-install node
+Currently, it is only possible to generate it by copying the files into the project.
 
 ## Usage
-run the index.js in the cli
+To utilize this project, you need to install the Inquirer package. Next, open the terminal from the root of the files and enter "node index.js," then respond to the questions. Once all questions are addressed, the README will be generated and you can further edit.
+
+Below is a video of how it is used and the code.
+
+https://github.com/FaustCelaj/readMe-Generator/assets/149631014/a83d3861-87b3-48cc-bc77-be90248b6060
+
+
 ## License
 ![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 Source link for [MIT](https://opensource.org/licenses/MIT)
-
 
 ## Contributors
 Faust
 
 ## Tests
-run the application
+Currently no testing is available
 
 ## Questions
-nothing
+Currently no questions
 
 ## Contact
 
